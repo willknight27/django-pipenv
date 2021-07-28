@@ -1,19 +1,19 @@
-#Entorno virtual Pipenv
+# Entorno virtual Pipenv
 
-##Instalar Pipenv
+## Instalar Pipenv
 
 ```
 pip install pipenv
 ```
 
-##Crear entorno virtual
+## Crear entorno virtual
 
 ```
 pipenv shell
 exit
 ```
 
-##Instalar y desinstalar modulos
+## Instalar y desinstalar modulos
 
 ```
 pipenv install nombre_modelo --dev
@@ -23,7 +23,7 @@ pipenv install -r requirements.txt
 
 ```
 
-##Eliminar entorno virtual
+## Eliminar entorno virtual
 
 ```
 pipenv --rm
